@@ -26,7 +26,7 @@ Hi, I'm Renuka Rathore, a passionate software testing professional skilled in Cy
 
 I am currently exploring advanced testing methodologies and contributing to open-source projects, enhancing my skills in software development and testing practices.
 
-📞 **Get in Touch:** 
+# 📞 **Get in Touch:** 
 **Connect with me -** 6260174119
 
 **GitHub:** https://github.com/Rrenuka01
